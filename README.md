@@ -79,7 +79,7 @@ for city in cities:
 
 ```
     EXAMPLE OF PRINT (about 500-600 actual records)
-    
+    --------------------------------------------------------------------------------------------------------------------
     Processing Record 1 of Set 1 | mount gambier
     http://api.openweathermap.org/data/2.5/weather?units=Imperial&appid=f69e8609b24ababd74a0428bbcc559f2&q=mount+gambier
 
