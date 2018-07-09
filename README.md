@@ -330,7 +330,7 @@ plt.show()
 ```
 
 
-![Lat v. Cloud](LatvCloud.png)
+![Lat v. Cloud](/Images/LatvCloud.png)
 
 
 ## Latitude vs. Wind Speed Plot
@@ -360,5 +360,5 @@ plt.show()
 ```
 
 
-![Lat v. Wind](LatvWind.png)
+![Lat v. Wind](/Images/LatvWind.png)
 
